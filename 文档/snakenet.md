@@ -9,4 +9,5 @@ Snakenet provides an opportunity for all Hydraheads to gear up as we progress to
 
 Beyond staking rewards, Snakenet brings a big bag of incentives for community involvement. HydraDX is community-driven and all contributions are rewarded in proportion to their added value. Community contributions can take various shapes. The biggest bounties are reserved for finding (and ideally - fixing) critical bugs in the chain. Community building, content creation and i18n are other examples of activities that are rewarded. More detailed information on community incentives will follow soon after we finalize the integration with Commonwealth which will allow us to handle the treasury tips. Needless to say, all early contributions will be rewarded retroactively.
 
-Happy snaking!
+快乐的蛇！
+如：这个平台如何进行交易链接位置？
